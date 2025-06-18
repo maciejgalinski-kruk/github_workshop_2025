@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mgalinski\\Projekty.Dev\\AZ-2007-Accelerate-app-development-by-using-GitHub-Copilot\\LearnModuleExercises\\Downloads\\GuidedProjectApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9911590-CC00-4B05-27F4-CC1B36E3F1CB}|AccelerateDevGitHubCopilot\\tests\\UnitTests\\UnitTests.csproj|c:\\users\\mgalinski\\projekty.dev\\az-2007-accelerate-app-development-by-using-github-copilot\\learnmoduleexercises\\downloads\\guidedprojectapp\\acceleratedevgithubcopilot\\tests\\unittests\\loanfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9911590-CC00-4B05-27F4-CC1B36E3F1CB}|AccelerateDevGitHubCopilot\\tests\\UnitTests\\UnitTests.csproj|solutionrelative:acceleratedevgithubcopilot\\tests\\unittests\\loanfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9911590-CC00-4B05-27F4-CC1B36E3F1CB}|AccelerateDevGitHubCopilot\\tests\\UnitTests\\UnitTests.csproj|c:\\users\\mgalinski\\projekty.dev\\az-2007-accelerate-app-development-by-using-github-copilot\\learnmoduleexercises\\downloads\\guidedprojectapp\\acceleratedevgithubcopilot\\tests\\unittests\\applicationcore\\loanservice\\extendloan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9911590-CC00-4B05-27F4-CC1B36E3F1CB}|AccelerateDevGitHubCopilot\\tests\\UnitTests\\UnitTests.csproj|solutionrelative:acceleratedevgithubcopilot\\tests\\unittests\\applicationcore\\loanservice\\extendloan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0B0E918-ACF8-CE5A-03BC-9F9F7065121B}|AccelerateDevGitHubCopilot\\src\\Library.Infrastructure\\Library.Infrastructure.csproj|c:\\users\\mgalinski\\projekty.dev\\az-2007-accelerate-app-development-by-using-github-copilot\\learnmoduleexercises\\downloads\\guidedprojectapp\\acceleratedevgithubcopilot\\src\\library.infrastructure\\library.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C0B0E918-ACF8-CE5A-03BC-9F9F7065121B}|AccelerateDevGitHubCopilot\\src\\Library.Infrastructure\\Library.Infrastructure.csproj|solutionrelative:acceleratedevgithubcopilot\\src\\library.infrastructure\\library.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{034D4EB1-1A25-4B58-28BA-74D9CA4D61D5}|AccelerateDevGitHubCopilot\\src\\Library.ApplicationCore\\Library.ApplicationCore.csproj|c:\\users\\mgalinski\\projekty.dev\\az-2007-accelerate-app-development-by-using-github-copilot\\learnmoduleexercises\\downloads\\guidedprojectapp\\acceleratedevgithubcopilot\\src\\library.applicationcore\\services\\loanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{034D4EB1-1A25-4B58-28BA-74D9CA4D61D5}|AccelerateDevGitHubCopilot\\src\\Library.ApplicationCore\\Library.ApplicationCore.csproj|solutionrelative:acceleratedevgithubcopilot\\src\\library.applicationcore\\services\\loanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExtendLoan.cs",
+              "DocumentMoniker": "C:\\Users\\mgalinski\\Projekty.Dev\\AZ-2007-Accelerate-app-development-by-using-GitHub-Copilot\\LearnModuleExercises\\Downloads\\GuidedProjectApp\\AccelerateDevGitHubCopilot\\tests\\UnitTests\\ApplicationCore\\LoanService\\ExtendLoan.cs",
+              "RelativeDocumentMoniker": "AccelerateDevGitHubCopilot\\tests\\UnitTests\\ApplicationCore\\LoanService\\ExtendLoan.cs",
+              "ToolTip": "C:\\Users\\mgalinski\\Projekty.Dev\\AZ-2007-Accelerate-app-development-by-using-GitHub-Copilot\\LearnModuleExercises\\Downloads\\GuidedProjectApp\\AccelerateDevGitHubCopilot\\tests\\UnitTests\\ApplicationCore\\LoanService\\ExtendLoan.cs",
+              "RelativeToolTip": "AccelerateDevGitHubCopilot\\tests\\UnitTests\\ApplicationCore\\LoanService\\ExtendLoan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T06:29:01.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoanFactory.cs",
+              "DocumentMoniker": "C:\\Users\\mgalinski\\Projekty.Dev\\AZ-2007-Accelerate-app-development-by-using-GitHub-Copilot\\LearnModuleExercises\\Downloads\\GuidedProjectApp\\AccelerateDevGitHubCopilot\\tests\\UnitTests\\LoanFactory.cs",
+              "RelativeDocumentMoniker": "AccelerateDevGitHubCopilot\\tests\\UnitTests\\LoanFactory.cs",
+              "ToolTip": "C:\\Users\\mgalinski\\Projekty.Dev\\AZ-2007-Accelerate-app-development-by-using-GitHub-Copilot\\LearnModuleExercises\\Downloads\\GuidedProjectApp\\AccelerateDevGitHubCopilot\\tests\\UnitTests\\LoanFactory.cs",
+              "RelativeToolTip": "AccelerateDevGitHubCopilot\\tests\\UnitTests\\LoanFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T06:28:47.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Library.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\mgalinski\\Projekty.Dev\\AZ-2007-Accelerate-app-development-by-using-GitHub-Copilot\\LearnModuleExercises\\Downloads\\GuidedProjectApp\\AccelerateDevGitHubCopilot\\src\\Library.Infrastructure\\Library.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "AccelerateDevGitHubCopilot\\src\\Library.Infrastructure\\Library.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\mgalinski\\Projekty.Dev\\AZ-2007-Accelerate-app-development-by-using-GitHub-Copilot\\LearnModuleExercises\\Downloads\\GuidedProjectApp\\AccelerateDevGitHubCopilot\\src\\Library.Infrastructure\\Library.Infrastructure.csproj",
+              "RelativeToolTip": "AccelerateDevGitHubCopilot\\src\\Library.Infrastructure\\Library.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-18T06:28:20.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoanService.cs",
+              "DocumentMoniker": "C:\\Users\\mgalinski\\Projekty.Dev\\AZ-2007-Accelerate-app-development-by-using-GitHub-Copilot\\LearnModuleExercises\\Downloads\\GuidedProjectApp\\AccelerateDevGitHubCopilot\\src\\Library.ApplicationCore\\Services\\LoanService.cs",
+              "RelativeDocumentMoniker": "AccelerateDevGitHubCopilot\\src\\Library.ApplicationCore\\Services\\LoanService.cs",
+              "ToolTip": "C:\\Users\\mgalinski\\Projekty.Dev\\AZ-2007-Accelerate-app-development-by-using-GitHub-Copilot\\LearnModuleExercises\\Downloads\\GuidedProjectApp\\AccelerateDevGitHubCopilot\\src\\Library.ApplicationCore\\Services\\LoanService.cs",
+              "RelativeToolTip": "AccelerateDevGitHubCopilot\\src\\Library.ApplicationCore\\Services\\LoanService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowBwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T06:28:11.571Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
